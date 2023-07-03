@@ -3,7 +3,7 @@
 ### Python virtual assistant project using the speech_recognition and pyttsx3 libraries:
 
 
-"In this example, the virtual assistant listens for user input through the microphone and converts it to text using the speech_recognition library. It then responds to various commands and performs tasks accordingly."
+In this example, the virtual assistant listens for user input through the microphone and converts it to text using the speech_recognition library. It then responds to various commands and performs tasks accordingly.
 
 The listen() function captures the user's speech and converts it into text. The speak() function utilizes the pyttsx3 library to convert text into speech.
 
